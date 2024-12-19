@@ -1,0 +1,6 @@
+* text=auto
+*.php text eol=lf
+*.md text eol=lf
+*.gitattributes text eol=lf
+
+# Automatically formats php files and md files to use LF (line feed) instead of CRLF (Carriage Return + Line Feed).
