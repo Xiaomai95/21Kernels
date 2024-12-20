@@ -10,6 +10,7 @@ The website is simple: provide users with 21 corn, where 1 corn = 1 vote, and hu
 
 - Backend: PHP
 - Front-end: React, Vanilla CSS
+ - CSS set up using Matt McAdams' boilerplate: [Matt McAdams' CSS boilerplate](https://github.com/MattMcAdams/CSS-Boilerplate) 
 - Database: SQLite
 
 ## Features
