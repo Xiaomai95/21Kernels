@@ -3,4 +3,8 @@
 *.md text eol=lf
 *.gitattributes text eol=lf
 
+#Create this file and then run these two commands:
+# 1) git add --renormalize . 
+# 2) git commit -m "Normalize line endings"
+
 # Automatically formats php files and md files to use LF (line feed) instead of CRLF (Carriage Return + Line Feed).
